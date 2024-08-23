@@ -1,0 +1,23 @@
+%%%%    (maintain 5 header lines)
+These data represent simulated data with 3 independent populations
+These header lines can be used to explain the point of the data collection 
+and point to other informative files with additional information.
+%%%%
+
+100nm_TetraSpeck_90pM_2_0.txt
+100nm_TetraSpeck_90pM_2_1.txt
+100nm_TetraSpeck_90pM_2_2.txt
+100nm_TetraSpeck_90pM_2_3.txt
+100nm_TetraSpeck_90pM_2_4.txt
+100nm_TetraSpeck_90pM_2_5.txt
+100nm_TetraSpeck_90pM_2_6.txt
+100nm_TetraSpeck_90pM_2_7.txt
+100nm_TetraSpeck_90pM_2_8.txt
+100nm_TetraSpeck_90pM_2_9.txt
+100nm_TetraSpeck_90pM_2_10.txt
+100nm_TetraSpeck_90pM_2_11.txt
+
+headlines colA colB sampletime driftwinA driftwinB basethreshA basethreshB corrt dofit
+14 1 3 500e-6 0 0 1 1 0.003 0
+
+
